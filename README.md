@@ -1,4 +1,4 @@
-# Flappy Bird Codex Test
+# Flappy Bird Codex 
 
 A complete Flappy Bird-style browser game built with pure HTML, CSS, and JavaScript using a single `canvas` for rendering. It includes score tracking, persistent high score storage, start and game-over screens, progressive difficulty, light parallax scenery, and simple Web Audio sound effects.
 
